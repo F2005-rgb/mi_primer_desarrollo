@@ -38,4 +38,5 @@ console.log("El area del rectangulo es:" + at)
 let D = 10;
 let d = 8;
 let resultado =(D*d/2);
-console.log("El area del rombo es:"+ resultado);
+
+
